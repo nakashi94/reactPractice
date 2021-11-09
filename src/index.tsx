@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import TodoPage from '../src/pages/TodoPage'; 
-import './index.css';
+import './assets/css/index.css';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(

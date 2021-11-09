@@ -1,8 +1,8 @@
 import React from 'react';
 import AppBar from '@mui/material/AppBar';
 import ToolBar from '@mui/material/Toolbar';
-import IconButton from  '@mui/material/IconButton';
-import MenuIcon from '@mui/icons-material/Menu';
+// import IconButton from  '@mui/material/IconButton';
+// import MenuIcon from '@mui/icons-material/Menu';
 
 const Header = () => {
   return (
@@ -12,7 +12,6 @@ const Header = () => {
           <h1>app_name</h1>
         </ToolBar>
       </AppBar>
-      <h1>header</h1>
     </div>
   )
 }
